@@ -21,6 +21,8 @@ The aim of this project was to analyze the data of crimes that were done against
 * What is the total average change in crimes between 2001 and 2012?
 
 ## Getting Started
+
+> All the operations below are for Windows OS.
    
 * Make sure that the virtualization is enabled for your system from the BIOS.
 * Install VMware Workshation Player.
@@ -31,6 +33,7 @@ The aim of this project was to analyze the data of crimes that were done against
 ```
 git clone https://github.com/meenal-shree/Analysis-of-crime-against-women-in-India-using-HIVE-and-HADOOP
 ```
+> For linux, install all the dependencies and then run the project from the command-line.
 
 ## Usage
 
