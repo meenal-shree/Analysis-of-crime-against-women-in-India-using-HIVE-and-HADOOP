@@ -10,7 +10,7 @@ The aim of this project was to analyze the data of crimes that were done against
 * Hive 2.1.0
 * Hadoop 2.7.3
 * Sqoop 1.4.6
-* MySQL
+* MySQL 10.5
 * Git/GitHub  
 
 ## Problem Statement
@@ -33,6 +33,8 @@ git clone https://github.com/meenal-shree/Analysis-of-crime-against-women-in-Ind
 ```
 
 ## Usage
+
+All the queries used in thge project can be fount [here](./Queries/queries.txt)
 
 To run the hive queries, use the Hive shell
 
