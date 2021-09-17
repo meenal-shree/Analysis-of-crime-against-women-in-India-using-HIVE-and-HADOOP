@@ -13,7 +13,9 @@ The aim of this project was to analyze the data of crimes that were done against
 * MySQL 10.5
 * Git/GitHub  
 
-## Problem Statement
+## Features
+
+List of features ready and TODOs for future development
 
 * What are the crimes done against women in India between 2001 to 2012?
 * What is the percentage increased between years?
